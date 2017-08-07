@@ -1,0 +1,5 @@
+c:\users\tauqe\documents\visual studio 2017\Projects\MVVMLight.Messaging\MVVMLight.Messaging\bin\Release\MVVMLight.Messaging.dll
+c:\users\tauqe\documents\visual studio 2017\Projects\MVVMLight.Messaging\MVVMLight.Messaging\bin\Release\MVVMLight.Messaging.pdb
+c:\users\tauqe\documents\visual studio 2017\Projects\MVVMLight.Messaging\MVVMLight.Messaging\obj\Release\MVVMLight.Messaging.dll
+c:\users\tauqe\documents\visual studio 2017\Projects\MVVMLight.Messaging\MVVMLight.Messaging\obj\Release\MVVMLight.Messaging.pdb
+c:\users\tauqe\documents\visual studio 2017\Projects\MVVMLight.Messaging\MVVMLight.Messaging\bin\Release\MVVMLight.Messaging.xml
